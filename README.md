@@ -1,6 +1,9 @@
 # 概要
 ## LINEと、GAEで簡単、自動文字起こしくん
-Line Messaging APIを利用して、GAEとVisionAPI連携して、簡単に自動文字起こしするコードです。
+Line Messaging APIを利用して、GAEとVisionAPI連携して、簡単に自動文字起こしするコードです
+
+下記の参考サイトでは、GoogleAppScriptでJavascriptで作っているようなので
+こちらでは、GoogleAppEngineでPython3.7使って書きました。
 
 ## 技術要素
 * GCP Vision API
