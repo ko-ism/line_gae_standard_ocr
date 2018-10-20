@@ -1,7 +1,8 @@
 # 概要
-自動文字起こしくん
+## LINEと、GAEで簡単、自動文字起こしくん
+Line Messaging APIを利用して、GAEとVisionAPI連携して、簡単に自動文字起こしするコードです。
 
-##技術要素
+## 技術要素
 * GCP Vision API
 * GCP GoogleAppEngine スタンダード環境(Python3.7)
 * GCP GoogleCloudStorage
